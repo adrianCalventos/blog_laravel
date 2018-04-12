@@ -58,7 +58,5 @@
         </div>
         
       <hr>
-      <a href="/posts/create" class="float">
-        <i class="fas fa-plus"></i>
-        </a>
+    
     @endsection
