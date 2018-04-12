@@ -1,5 +1,6 @@
 # blog_laravel
 
-Proyecto hecho en clase con laravel y bootstrap
+Proyecto hecho para clase de laravel.
+Se realiza con una plantilla bootstrap y tiene la forma de un blog.
 
 
